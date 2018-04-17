@@ -11,12 +11,18 @@ namespace Boccee_Ball_League.Models
         public int ID { get; set; }
 
         // many to many.
+        public int? HomeTeamID { get; set; }
         public Team HomeTeam { get; set; }
+
+        public int? AwayTeamID { get; set; }
         public Team AwayTeam { get; set; }
 
         public int HomeScore { get; set; }
         public int AwayScore { get; set; }
         public DateTime DateHappened { get; set; }
         public string Notes { get; set; }
+
+        // 
+        public ICollection<Team> Team { get; set; } = new HashSet<Team>();
     }
 }

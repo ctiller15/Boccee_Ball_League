@@ -54,6 +54,14 @@
     <Compile Include="Migrations\201804171755531_Hello.Designer.cs">
       <DependentUpon>201804171755531_Hello.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201804171800394_AddTeamIDs.cs" />
+    <Compile Include="Migrations\201804171800394_AddTeamIDs.Designer.cs">
+      <DependentUpon>201804171800394_AddTeamIDs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201804171808034_AddHashsets.cs" />
+    <Compile Include="Migrations\201804171808034_AddHashsets.Designer.cs">
+      <DependentUpon>201804171808034_AddHashsets.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Game.cs" />
     <Compile Include="Models\Player.cs" />
@@ -68,6 +76,12 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201804171755531_Hello.resx">
       <DependentUpon>201804171755531_Hello.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201804171800394_AddTeamIDs.resx">
+      <DependentUpon>201804171800394_AddTeamIDs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201804171808034_AddHashsets.resx">
+      <DependentUpon>201804171808034_AddHashsets.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

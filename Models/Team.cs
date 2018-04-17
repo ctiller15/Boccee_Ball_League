@@ -12,5 +12,6 @@ namespace Boccee_Ball_League.Models
         public string Mascot { get; set; }
         public string Color { get; set; }
 
+        public ICollection<Game> Game { get; set; } = new HashSet<Game>();
     }
 }
