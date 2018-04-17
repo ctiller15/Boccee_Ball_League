@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Boccee_Ball_League
+namespace Boccee_Ball_League.Models
 {
     class Game
     {
