@@ -14,3 +14,5 @@ C:\Users\ctiller\training\week-7\day-2\Boccee_Ball_League\Boccee_Ball_League\obj
 C:\Users\ctiller\training\week-7\day-2\Boccee_Ball_League\Boccee_Ball_League\obj\Debug\Boccee_Ball_League.csproj.GenerateResource.cache
 C:\Users\ctiller\training\week-7\day-2\Boccee_Ball_League\Boccee_Ball_League\obj\Debug\Boccee_Ball_League.Migrations.AddTeamIDs.resources
 C:\Users\ctiller\training\week-7\day-2\Boccee_Ball_League\Boccee_Ball_League\obj\Debug\Boccee_Ball_League.Migrations.AddHashsets.resources
+C:\Users\ctiller\training\week-7\day-2\Boccee_Ball_League\Boccee_Ball_League\obj\Debug\Boccee_Ball_League.Migrations.ModifyHomeAwayIDs.resources
+C:\Users\ctiller\training\week-7\day-2\Boccee_Ball_League\Boccee_Ball_League\obj\Debug\Boccee_Ball_League.Migrations.AddInTeamInfo.resources

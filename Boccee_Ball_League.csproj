@@ -62,6 +62,14 @@
     <Compile Include="Migrations\201804171808034_AddHashsets.Designer.cs">
       <DependentUpon>201804171808034_AddHashsets.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201804171830407_ModifyHomeAwayIDs.cs" />
+    <Compile Include="Migrations\201804171830407_ModifyHomeAwayIDs.Designer.cs">
+      <DependentUpon>201804171830407_ModifyHomeAwayIDs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201804171836350_AddInTeamInfo.cs" />
+    <Compile Include="Migrations\201804171836350_AddInTeamInfo.Designer.cs">
+      <DependentUpon>201804171836350_AddInTeamInfo.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Game.cs" />
     <Compile Include="Models\Player.cs" />
@@ -82,6 +90,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201804171808034_AddHashsets.resx">
       <DependentUpon>201804171808034_AddHashsets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201804171830407_ModifyHomeAwayIDs.resx">
+      <DependentUpon>201804171830407_ModifyHomeAwayIDs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201804171836350_AddInTeamInfo.resx">
+      <DependentUpon>201804171836350_AddInTeamInfo.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
