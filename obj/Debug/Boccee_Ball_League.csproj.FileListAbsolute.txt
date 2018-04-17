@@ -1,0 +1,14 @@
+C:\Users\ctiller\training\week-7\day-2\Boccee_Ball_League\Boccee_Ball_League\bin\Debug\Boccee_Ball_League.exe.config
+C:\Users\ctiller\training\week-7\day-2\Boccee_Ball_League\Boccee_Ball_League\bin\Debug\Boccee_Ball_League.exe
+C:\Users\ctiller\training\week-7\day-2\Boccee_Ball_League\Boccee_Ball_League\bin\Debug\Boccee_Ball_League.pdb
+C:\Users\ctiller\training\week-7\day-2\Boccee_Ball_League\Boccee_Ball_League\bin\Debug\EntityFramework.dll
+C:\Users\ctiller\training\week-7\day-2\Boccee_Ball_League\Boccee_Ball_League\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ctiller\training\week-7\day-2\Boccee_Ball_League\Boccee_Ball_League\bin\Debug\EntityFramework.xml
+C:\Users\ctiller\training\week-7\day-2\Boccee_Ball_League\Boccee_Ball_League\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ctiller\training\week-7\day-2\Boccee_Ball_League\Boccee_Ball_League\obj\Debug\Boccee_Ball_League.csprojResolveAssemblyReference.cache
+C:\Users\ctiller\training\week-7\day-2\Boccee_Ball_League\Boccee_Ball_League\obj\Debug\Boccee_Ball_League.csproj.CoreCompileInputs.cache
+C:\Users\ctiller\training\week-7\day-2\Boccee_Ball_League\Boccee_Ball_League\obj\Debug\Boccee_Ball_League.csproj.CopyComplete
+C:\Users\ctiller\training\week-7\day-2\Boccee_Ball_League\Boccee_Ball_League\obj\Debug\Boccee_Ball_League.exe
+C:\Users\ctiller\training\week-7\day-2\Boccee_Ball_League\Boccee_Ball_League\obj\Debug\Boccee_Ball_League.pdb
+C:\Users\ctiller\training\week-7\day-2\Boccee_Ball_League\Boccee_Ball_League\obj\Debug\Boccee_Ball_League.Migrations.Hello.resources
+C:\Users\ctiller\training\week-7\day-2\Boccee_Ball_League\Boccee_Ball_League\obj\Debug\Boccee_Ball_League.csproj.GenerateResource.cache
